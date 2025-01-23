@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
+  <diagram name="Page-1" id="1l9ma3UedYaZAsrvFTfW">
+    <mxGraphModel dx="1019" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kuVfV144gCx7UQeqjRTA-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kuVfV144gCx7UQeqjRTA-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="170" as="sourcePoint" />
+            <mxPoint x="690" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuVfV144gCx7UQeqjRTA-3" value="Search ES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuVfV144gCx7UQeqjRTA-4" value="Master Hotel list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuVfV144gCx7UQeqjRTA-6" value="id&lt;div&gt;vervotech id&lt;/div&gt;&lt;div&gt;chainName&lt;/div&gt;&lt;div&gt;checkin checkout&lt;/div&gt;&lt;div&gt;address&lt;/div&gt;&lt;div&gt;pincode&lt;/div&gt;&lt;div&gt;city&lt;/div&gt;&lt;div&gt;state&lt;/div&gt;&lt;div&gt;country&lt;/div&gt;&lt;div&gt;cityCode&lt;/div&gt;&lt;div&gt;stateCode&lt;/div&gt;&lt;div&gt;CountryCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;phone&lt;/div&gt;&lt;div&gt;fax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;facility&lt;/div&gt;&lt;div&gt;hotelRating&lt;/div&gt;&lt;div&gt;tripAdvisorReview&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="110" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="kuVfV144gCx7UQeqjRTA-7" value="VERVOTECH DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuVfV144gCx7UQeqjRTA-8" value="TBO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuVfV144gCx7UQeqjRTA-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;attractions&lt;div&gt;discriptions&lt;/div&gt;&lt;div&gt;images&lt;/div&gt;&lt;div&gt;hotelfacilities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="294" y="180" width="90" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
