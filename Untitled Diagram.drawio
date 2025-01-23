@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Page-1" id="1l9ma3UedYaZAsrvFTfW">
-    <mxGraphModel dx="933" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,11 +31,17 @@
         <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-27" value="&lt;br&gt;&lt;div&gt;Hotel Code&lt;/div&gt;&lt;div&gt;Hotel Name&lt;/div&gt;&lt;div&gt;Description&lt;/div&gt;&lt;div&gt;HotelFacilities&lt;/div&gt;&lt;div&gt;Attractions&lt;/div&gt;&lt;div&gt;Images - []&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;check in&lt;/div&gt;&lt;div&gt;check out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;Pincode&lt;/div&gt;&lt;div&gt;CityId&lt;/div&gt;&lt;div&gt;cityName&lt;/div&gt;&lt;div&gt;countryName&lt;/div&gt;&lt;div&gt;CountryCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;phone&lt;/div&gt;&lt;div&gt;fax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Map&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hotelRating&lt;/div&gt;&lt;div&gt;tripAdvisorReview&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="190" y="170" width="227.5" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-29" value="Master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="58" width="60" height="30" as="geometry" />
+        <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-29" value="Master Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="48" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-33" value="&lt;br&gt;&lt;div&gt;Hotel Code&lt;/div&gt;&lt;div&gt;Hotel Name&lt;/div&gt;&lt;div&gt;Description&lt;/div&gt;&lt;div&gt;HotelFacilities&lt;/div&gt;&lt;div&gt;Attractions&lt;/div&gt;&lt;div&gt;Images - []&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;check in&lt;/div&gt;&lt;div&gt;check out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;Pincode&lt;/div&gt;&lt;div&gt;CityId&lt;/div&gt;&lt;div&gt;cityName&lt;/div&gt;&lt;div&gt;countryName&lt;/div&gt;&lt;div&gt;CountryCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;phone&lt;/div&gt;&lt;div&gt;fax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Map&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hotelRating&lt;/div&gt;&lt;div&gt;tripAdvisorReview&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
-          <mxGeometry x="506.25" y="170" width="227.5" height="260" as="geometry" />
+        <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-33" value="&lt;br&gt;&lt;div&gt;UUID (id)&lt;/div&gt;&lt;div&gt;Hotel Name&lt;/div&gt;&lt;div&gt;Description&lt;/div&gt;&lt;div&gt;HotelFacilities&lt;/div&gt;&lt;div&gt;Attractions&lt;/div&gt;&lt;div&gt;Images - []&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ChainName&lt;/div&gt;&lt;div&gt;brandName&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;check in&lt;/div&gt;&lt;div&gt;check out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;Pincode&lt;/div&gt;&lt;div&gt;CityId&lt;/div&gt;&lt;div&gt;cityName&lt;/div&gt;&lt;div&gt;countryName&lt;/div&gt;&lt;div&gt;CountryCode&lt;/div&gt;&lt;div&gt;state&lt;/div&gt;&lt;div&gt;stateCode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;phone -[]&lt;/div&gt;&lt;div&gt;fax - []&lt;/div&gt;&lt;div&gt;website&lt;/div&gt;&lt;div&gt;emails - []&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Map&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hotelRating&lt;/div&gt;&lt;div&gt;tripAdvisorReview&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="227.5" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-34" value="Vervotech Code&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TBO Code&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;... and other&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="292.5" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-36" value="Provider Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
