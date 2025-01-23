@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Page-1" id="1l9ma3UedYaZAsrvFTfW">
-    <mxGraphModel dx="1368" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         </mxCell>
         <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rIzJHlfmxQ2hy1xVaPQ-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="900" as="targetPoint" />
+            <mxPoint x="690" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-75" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
@@ -113,13 +113,16 @@
           <mxGeometry x="525" y="860" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="680" y="890" width="88" height="60" as="geometry" />
+          <mxGeometry x="692" y="880" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-80" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="917.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-82" value="Response TO FE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="664" y="970" width="120" height="30" as="geometry" />
+          <mxGeometry x="676" y="962.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rIzJHlfmxQ2hy1xVaPQ-83" value="if vervotech is enabled&lt;div&gt;call API to room&amp;nbsp;&lt;/div&gt;&lt;div&gt;mapping to categorized&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="985" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
